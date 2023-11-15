@@ -3,3 +3,6 @@ https://mediafilez.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar
 https://mediafilez.forgecdn.net/files/2710/969/ToughAsNails-1.12.2-3.1.0.141-universal.jar
 https://mediafilez.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar
 https://mediafilez.forgecdn.net/files/2782/568/RTG-1.12.2-6.1.0.0-snapshot.1.jar
+https://mediafilez.forgecdn.net/files/3973/967/foamfix-0.10.15-1.12.2.jar
+https://mediafilez.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar
+https://mediafilez.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar
